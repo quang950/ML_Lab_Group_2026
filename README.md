@@ -4,7 +4,7 @@ Repo lưu các bài tập lab (labs) của môn **Machine Learning**, thực hi�
 
 ## Nội dung
 
-- `Lab02.ipynb` — Bài tập Kaggle **House Prices - Advanced Regression Techniques**, thực hiện theo quy trình **CRISP-DM** (Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation).
+- [`Lab02.ipynb`](Lab02.ipynb) — Bài tập Kaggle **House Prices - Advanced Regression Techniques**, thực hiện theo quy trình **CRISP-DM** (Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation).
 
 ## Cách chạy
 
