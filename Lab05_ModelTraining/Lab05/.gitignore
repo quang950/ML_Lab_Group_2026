@@ -1,0 +1,18 @@
+# Môi trường và cache
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Bí mật (hiện chưa có, ghi sẵn)
+.env
+kaggle.json
+
+# File nén và bản sao lưu
+*.zip
+results_summary.backup.csv
+
+# Dữ liệu: xem mục 2, bỏ dòng này nếu quyết định commit data
+data/*.csv
+
